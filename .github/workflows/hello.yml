@@ -1,6 +1,6 @@
 #Workflow
 #Should have name
-Name: Hello
+name: Hello
 
 # On tells when the workflow should run (Give indentation by tab)
 on:
